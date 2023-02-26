@@ -1,4 +1,5 @@
 # City Score Application
+[Live Site](https://cla91.github.io/city-score/)
 
 This is a simple JavaScript application that lets the user view informations about the quality of life in a city, through the use of the external service [Teleport](https://api.teleport.org/api/urban_areas/slug:los-angeles/scores/).
 
