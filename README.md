@@ -6,6 +6,7 @@ This is a simple JavaScript application that lets the user view informations abo
 
 - [Overview](#overview)
   - [Requirements](#requirements)
+  - [Added feature](#added-feature)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
