@@ -31,8 +31,11 @@ Requirements:
 - for multiple search results: it shows a menu from which users can choose a single city
 
 ### Screenshot
-
-![](./)
+![](./screenshot/Screenshot-mobile-1.png)
+![](./screenshot/Screenshot-mobile-2.png)
+![](./screenshot/Screenshot-error.png)
+![](./screenshot/Screenshot-tablet.png)
+![](./screenshot/Screenshot-desktop.png)
 
 
 ### Links
