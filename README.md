@@ -27,6 +27,7 @@ Requirements:
 ### Added Feature
 
 - the app shows a message error in case of: network connection error, page not found error and empty field error
+- in the search box, while typing, a <datalist> HTML element gets added with javascript, with recommended options available, it also updates at every letter input
 - for multiple search results: it shows a menu from which users can choose a single city
 
 ### Screenshot
