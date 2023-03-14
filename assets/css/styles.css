@@ -282,7 +282,7 @@ header.header-minimize .search__button img {
     position: relative;
     display: flex;
     justify-content: space-between;
-
+    overflow: hidden;
 }
 
 .category__score {
@@ -297,9 +297,6 @@ header.header-minimize .search__button img {
     left: 0;
     z-index: -1;
     opacity: 0.5;
-    -webkit-transition: width 1s;
-    -o-transition: width 1s;
-    transition: width 1s;
 }
 
 .footer {
@@ -322,6 +319,31 @@ header.header-minimize .search__button img {
 
 .hidden {
     display: none;
+}
+
+.slideIn {
+    -webkit-animation: slideIn 1s;
+    animation: slideIn 1s;
+}
+
+@-webkit-keyframes slideIn {
+    from {
+        transform: translate(-100%);
+    }
+
+    to {
+        transform: translate(0%);
+    }
+}
+
+@keyframes slideIn {
+    from {
+        transform: translate(-100%);
+    }
+
+    to {
+        transform: translate(0%);
+    }
 }
 
 @media screen and (min-width: 900px) {
