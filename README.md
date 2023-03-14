@@ -52,6 +52,8 @@ Requirements:
 - CSS3
 - Vanilla JavaScript
 - Webpack 5
+- Lodash
+- Axios
 
 ## Contact
 - Claudia Cantiani - cclaudia0691@gmaill.com
